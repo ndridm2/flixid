@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197706334964",
+    "project_id": "flixid-b5d68",
+    "storage_bucket": "flixid-b5d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197706334964:android:bec4b5032c53f6d6d494a1",
+        "android_client_info": {
+          "package_name": "com.ndridm.flixid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2bF3FGlQp3SZAu-qXeX6iYjaggm-Fk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
